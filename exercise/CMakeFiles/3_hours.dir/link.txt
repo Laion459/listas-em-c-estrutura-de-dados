@@ -1,0 +1,1 @@
+/opt/rh/gcc-toolset-14/root/usr/bin/c++ CMakeFiles/3_hours.dir/3_hours.cpp.o CMakeFiles/3_hours.dir/src/hours.cpp.o -o 3_hours 
