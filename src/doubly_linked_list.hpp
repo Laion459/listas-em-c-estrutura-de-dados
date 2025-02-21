@@ -287,6 +287,7 @@ DoublyLinkedList<T>::Iterator<U>::operator--() {
     node = node->prev;
     end = false;
   }
+  
   return *this;
 }
 
